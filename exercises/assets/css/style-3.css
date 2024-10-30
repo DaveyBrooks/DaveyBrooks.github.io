@@ -9,6 +9,8 @@ body { line-height: 1.5; min-height: 100vh }
 img { width: 100%; height: auto; display: block }
 input, button, textarea, select { font: inherit }
 
+body { background-color: lightblue; }
+
 
 /* === CUSTOM PROPERTIES === */
 :root { /* Alternatives to default sans-serif font-family */
@@ -50,6 +52,7 @@ h2 {
     letter-spacing: -2px;
     font-size: var(--fs-xxl);
     margin-bottom: 4px;
+    color: blue;
 }
 
 h3 {
@@ -61,3 +64,5 @@ p {
     font-size: var(--fs-md);
     margin-bottom: 16px
 }
+
+a { color: blue; }
