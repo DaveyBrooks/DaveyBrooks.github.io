@@ -1,0 +1,7 @@
+/* Add your custom CSS here */
+
+header.theme-dark h1 { color: var(--white-000) }
+
+.section-selector-1 { background-color: var(--black-000) }
+
+
