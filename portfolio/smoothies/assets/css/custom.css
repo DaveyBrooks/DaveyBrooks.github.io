@@ -35,3 +35,9 @@ header h1, header h2 { letter-spacing: -1px }
 .cols-2-half .col-2 h2,
 .cols-2-half .col-2 p { letter-spacing: 1px }  
 
+.neucha-regular {
+    font-family: "Neucha", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
