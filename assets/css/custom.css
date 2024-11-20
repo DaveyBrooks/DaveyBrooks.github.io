@@ -1,11 +1,11 @@
 
 nav.theme-dark, nav.theme-dark ul.links-wrapper.active { background-color: #344C64}
 
-header.theme-dark   { background-color: #344C64 }
+header.theme-dark   { background-color: #B9E5E8 }
 
 header.theme-dark  h1 { color: var(--sky-400); }
 
-section.theme-dark   { background-color: #344C64 }
+section.theme-dark   { background-color: #608BC1}
 
 footer.theme-dark   { background-color: #344C64 }
 
